@@ -1,1 +1,1 @@
-alert('KIKOULOOOO');
+console.log('KIKOULOOOL');

@@ -31,7 +31,7 @@ let server = http.createServer(function(req,res){
             res.write('Hé ho, c\'est privé ici !'); 
         }
         else{
-            res.writeHead(404);/**/
+            //res.writeHead(404);/**/
             res.write('cette page n\'éxiste pas'); 
         }
     
